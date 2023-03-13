@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "81d16a12",
+   "id": "8faa5462",
    "metadata": {
     "_execution_state": "idle",
     "_uuid": "051d70d956493feee0c6d64651c6a088724dca2a",
     "execution": {
-     "iopub.execute_input": "2023-03-12T23:18:14.122934Z",
-     "iopub.status.busy": "2023-03-12T23:18:14.120414Z",
-     "iopub.status.idle": "2023-03-12T23:18:15.553027Z",
-     "shell.execute_reply": "2023-03-12T23:18:15.551318Z"
+     "iopub.execute_input": "2023-03-13T04:44:52.370908Z",
+     "iopub.status.busy": "2023-03-13T04:44:52.368600Z",
+     "iopub.status.idle": "2023-03-13T04:44:53.773716Z",
+     "shell.execute_reply": "2023-03-13T04:44:53.771970Z"
     },
     "papermill": {
-     "duration": 1.44336,
-     "end_time": "2023-03-12T23:18:15.555474",
+     "duration": 1.416749,
+     "end_time": "2023-03-13T04:44:53.776222",
      "exception": false,
-     "start_time": "2023-03-12T23:18:14.112114",
+     "start_time": "2023-03-13T04:44:52.359473",
      "status": "completed"
     },
     "tags": []
@@ -74,13 +74,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "7c4159b7",
+   "id": "432aec03",
    "metadata": {
     "papermill": {
-     "duration": 0.005108,
-     "end_time": "2023-03-12T23:18:15.565833",
+     "duration": 0.00611,
+     "end_time": "2023-03-13T04:44:53.788937",
      "exception": false,
-     "start_time": "2023-03-12T23:18:15.560725",
+     "start_time": "2023-03-13T04:44:53.782827",
      "status": "completed"
     },
     "tags": []
@@ -96,13 +96,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "706b1b19",
+   "id": "ddfc73bd",
    "metadata": {
     "papermill": {
-     "duration": 0.004946,
-     "end_time": "2023-03-12T23:18:15.575783",
+     "duration": 0.005959,
+     "end_time": "2023-03-13T04:44:53.801326",
      "exception": false,
-     "start_time": "2023-03-12T23:18:15.570837",
+     "start_time": "2023-03-13T04:44:53.795367",
      "status": "completed"
     },
     "tags": []
@@ -122,13 +122,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "c2dce937",
+   "id": "207ca370",
    "metadata": {
     "papermill": {
-     "duration": 0.004862,
-     "end_time": "2023-03-12T23:18:15.585545",
+     "duration": 0.005784,
+     "end_time": "2023-03-13T04:44:53.813199",
      "exception": false,
-     "start_time": "2023-03-12T23:18:15.580683",
+     "start_time": "2023-03-13T04:44:53.807415",
      "status": "completed"
     },
     "tags": []
@@ -140,19 +140,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "022a4dc0",
+   "id": "1819a7be",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-03-12T23:18:15.626533Z",
-     "iopub.status.busy": "2023-03-12T23:18:15.597056Z",
-     "iopub.status.idle": "2023-03-12T23:18:15.737519Z",
-     "shell.execute_reply": "2023-03-12T23:18:15.735590Z"
+     "iopub.execute_input": "2023-03-13T04:44:53.855980Z",
+     "iopub.status.busy": "2023-03-13T04:44:53.826760Z",
+     "iopub.status.idle": "2023-03-13T04:44:53.966442Z",
+     "shell.execute_reply": "2023-03-13T04:44:53.964636Z"
     },
     "papermill": {
-     "duration": 0.149381,
-     "end_time": "2023-03-12T23:18:15.739889",
+     "duration": 0.149914,
+     "end_time": "2023-03-13T04:44:53.968992",
      "exception": false,
-     "start_time": "2023-03-12T23:18:15.590508",
+     "start_time": "2023-03-13T04:44:53.819078",
      "status": "completed"
     },
     "tags": []
@@ -168,13 +168,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "269a7f36",
+   "id": "2d6078a1",
    "metadata": {
     "papermill": {
-     "duration": 0.004879,
-     "end_time": "2023-03-12T23:18:15.749736",
+     "duration": 0.006015,
+     "end_time": "2023-03-13T04:44:53.981207",
      "exception": false,
-     "start_time": "2023-03-12T23:18:15.744857",
+     "start_time": "2023-03-13T04:44:53.975192",
      "status": "completed"
     },
     "tags": []
@@ -190,19 +190,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "1c02eaa9",
+   "id": "7673d0d4",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-03-12T23:18:15.762943Z",
-     "iopub.status.busy": "2023-03-12T23:18:15.761418Z",
-     "iopub.status.idle": "2023-03-12T23:18:15.787970Z",
-     "shell.execute_reply": "2023-03-12T23:18:15.786401Z"
+     "iopub.execute_input": "2023-03-13T04:44:53.996664Z",
+     "iopub.status.busy": "2023-03-13T04:44:53.995205Z",
+     "iopub.status.idle": "2023-03-13T04:44:54.019885Z",
+     "shell.execute_reply": "2023-03-13T04:44:54.018294Z"
     },
     "papermill": {
-     "duration": 0.035515,
-     "end_time": "2023-03-12T23:18:15.790285",
+     "duration": 0.035354,
+     "end_time": "2023-03-13T04:44:54.022713",
      "exception": false,
-     "start_time": "2023-03-12T23:18:15.754770",
+     "start_time": "2023-03-13T04:44:53.987359",
      "status": "completed"
     },
     "tags": []
@@ -247,13 +247,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "010b1d10",
+   "id": "a6b22e87",
    "metadata": {
     "papermill": {
-     "duration": 0.005016,
-     "end_time": "2023-03-12T23:18:15.800963",
+     "duration": 0.006107,
+     "end_time": "2023-03-13T04:44:54.035161",
      "exception": false,
-     "start_time": "2023-03-12T23:18:15.795947",
+     "start_time": "2023-03-13T04:44:54.029054",
      "status": "completed"
     },
     "tags": []
@@ -269,19 +269,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "544e3c65",
+   "id": "711c1655",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-03-12T23:18:15.814666Z",
-     "iopub.status.busy": "2023-03-12T23:18:15.813227Z",
-     "iopub.status.idle": "2023-03-12T23:18:15.860575Z",
-     "shell.execute_reply": "2023-03-12T23:18:15.858698Z"
+     "iopub.execute_input": "2023-03-13T04:44:54.050667Z",
+     "iopub.status.busy": "2023-03-13T04:44:54.049157Z",
+     "iopub.status.idle": "2023-03-13T04:44:54.095905Z",
+     "shell.execute_reply": "2023-03-13T04:44:54.093993Z"
     },
     "papermill": {
-     "duration": 0.05645,
-     "end_time": "2023-03-12T23:18:15.862923",
+     "duration": 0.057237,
+     "end_time": "2023-03-13T04:44:54.098557",
      "exception": false,
-     "start_time": "2023-03-12T23:18:15.806473",
+     "start_time": "2023-03-13T04:44:54.041320",
      "status": "completed"
     },
     "tags": []
@@ -342,19 +342,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "632aec3d",
+   "id": "548dbd5d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-03-12T23:18:15.877545Z",
-     "iopub.status.busy": "2023-03-12T23:18:15.876060Z",
-     "iopub.status.idle": "2023-03-12T23:18:19.702494Z",
-     "shell.execute_reply": "2023-03-12T23:18:19.699691Z"
+     "iopub.execute_input": "2023-03-13T04:44:54.116372Z",
+     "iopub.status.busy": "2023-03-13T04:44:54.114858Z",
+     "iopub.status.idle": "2023-03-13T04:44:57.919572Z",
+     "shell.execute_reply": "2023-03-13T04:44:57.917673Z"
     },
     "papermill": {
-     "duration": 3.838646,
-     "end_time": "2023-03-12T23:18:19.707539",
+     "duration": 3.818031,
+     "end_time": "2023-03-13T04:44:57.923688",
      "exception": false,
-     "start_time": "2023-03-12T23:18:15.868893",
+     "start_time": "2023-03-13T04:44:54.105657",
      "status": "completed"
     },
     "tags": []
@@ -406,13 +406,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "df37c82d",
+   "id": "9dd48c0d",
    "metadata": {
     "papermill": {
-     "duration": 0.007415,
-     "end_time": "2023-03-12T23:18:19.722719",
+     "duration": 0.008388,
+     "end_time": "2023-03-13T04:44:57.940875",
      "exception": false,
-     "start_time": "2023-03-12T23:18:19.715304",
+     "start_time": "2023-03-13T04:44:57.932487",
      "status": "completed"
     },
     "tags": []
@@ -432,19 +432,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "a0f7e66e",
+   "id": "1073fc61",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-03-12T23:18:19.740801Z",
-     "iopub.status.busy": "2023-03-12T23:18:19.739325Z",
-     "iopub.status.idle": "2023-03-12T23:18:19.939436Z",
-     "shell.execute_reply": "2023-03-12T23:18:19.933442Z"
+     "iopub.execute_input": "2023-03-13T04:44:57.960765Z",
+     "iopub.status.busy": "2023-03-13T04:44:57.959290Z",
+     "iopub.status.idle": "2023-03-13T04:44:58.105875Z",
+     "shell.execute_reply": "2023-03-13T04:44:58.103035Z"
     },
     "papermill": {
-     "duration": 0.214764,
-     "end_time": "2023-03-12T23:18:19.944874",
+     "duration": 0.160189,
+     "end_time": "2023-03-13T04:44:58.109497",
      "exception": false,
-     "start_time": "2023-03-12T23:18:19.730110",
+     "start_time": "2023-03-13T04:44:57.949308",
      "status": "completed"
     },
     "tags": []
@@ -501,23 +501,23 @@
   },
   {
    "cell_type": "markdown",
-   "id": "82a8786c",
+   "id": "fe0dab22",
    "metadata": {
     "papermill": {
-     "duration": 0.011512,
-     "end_time": "2023-03-12T23:18:19.975337",
+     "duration": 0.013803,
+     "end_time": "2023-03-13T04:44:58.137686",
      "exception": false,
-     "start_time": "2023-03-12T23:18:19.963825",
+     "start_time": "2023-03-13T04:44:58.123883",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "Answer: The estimate of σ^2, the error variance = 499.4^2 = 249,400.36\n",
+    "Answer: The estimate of σ^2, the error variance = 451.2^2 = 203,581.44\n",
     "\n",
     "d. values of the predictor variables for a car whose predicted price, hat{E[Y |X]}, equals the intercept hat{β0} = −745,843.41 INR\n",
     "\n",
-    "Answer: hat{price} = −745,843.41. It is impossible because the price can not be negative\n",
+    "Answer: It is the case when values of the predictor variables equal 0. \n",
     "\n",
     "e. An interpretation of the coefficient for txManual, mileage\n",
     "\n",
@@ -531,19 +531,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "cfeafa2f",
+   "id": "b821ef94",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-03-12T23:18:19.994580Z",
-     "iopub.status.busy": "2023-03-12T23:18:19.992487Z",
-     "iopub.status.idle": "2023-03-12T23:18:20.025252Z",
-     "shell.execute_reply": "2023-03-12T23:18:20.022569Z"
+     "iopub.execute_input": "2023-03-13T04:44:58.170717Z",
+     "iopub.status.busy": "2023-03-13T04:44:58.167334Z",
+     "iopub.status.idle": "2023-03-13T04:44:58.213324Z",
+     "shell.execute_reply": "2023-03-13T04:44:58.210245Z"
     },
     "papermill": {
-     "duration": 0.046565,
-     "end_time": "2023-03-12T23:18:20.029581",
+     "duration": 0.064582,
+     "end_time": "2023-03-13T04:44:58.216025",
      "exception": false,
-     "start_time": "2023-03-12T23:18:19.983016",
+     "start_time": "2023-03-13T04:44:58.151443",
      "status": "completed"
     },
     "tags": []
@@ -582,19 +582,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "0cc03149",
+   "id": "a0df2d3e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-03-12T23:18:20.052324Z",
-     "iopub.status.busy": "2023-03-12T23:18:20.050386Z",
-     "iopub.status.idle": "2023-03-12T23:18:20.085268Z",
-     "shell.execute_reply": "2023-03-12T23:18:20.083071Z"
+     "iopub.execute_input": "2023-03-13T04:44:58.239681Z",
+     "iopub.status.busy": "2023-03-13T04:44:58.236616Z",
+     "iopub.status.idle": "2023-03-13T04:44:58.263568Z",
+     "shell.execute_reply": "2023-03-13T04:44:58.261542Z"
     },
     "papermill": {
-     "duration": 0.04851,
-     "end_time": "2023-03-12T23:18:20.087975",
+     "duration": 0.041522,
+     "end_time": "2023-03-13T04:44:58.266227",
      "exception": false,
-     "start_time": "2023-03-12T23:18:20.039465",
+     "start_time": "2023-03-13T04:44:58.224705",
      "status": "completed"
     },
     "tags": []
@@ -627,13 +627,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "aea2d002",
+   "id": "4cd904f5",
    "metadata": {
     "papermill": {
-     "duration": 0.007851,
-     "end_time": "2023-03-12T23:18:20.104465",
+     "duration": 0.008702,
+     "end_time": "2023-03-13T04:44:58.283843",
      "exception": false,
-     "start_time": "2023-03-12T23:18:20.096614",
+     "start_time": "2023-03-13T04:44:58.275141",
      "status": "completed"
     },
     "tags": []
@@ -653,19 +653,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "fea19e67",
+   "id": "76a02529",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-03-12T23:18:20.123653Z",
-     "iopub.status.busy": "2023-03-12T23:18:20.122095Z",
-     "iopub.status.idle": "2023-03-12T23:18:21.635781Z",
-     "shell.execute_reply": "2023-03-12T23:18:21.633966Z"
+     "iopub.execute_input": "2023-03-13T04:44:58.304670Z",
+     "iopub.status.busy": "2023-03-13T04:44:58.303107Z",
+     "iopub.status.idle": "2023-03-13T04:44:59.830016Z",
+     "shell.execute_reply": "2023-03-13T04:44:59.826403Z"
     },
     "papermill": {
-     "duration": 1.527217,
-     "end_time": "2023-03-12T23:18:21.639617",
+     "duration": 1.540933,
+     "end_time": "2023-03-13T04:44:59.833787",
      "exception": false,
-     "start_time": "2023-03-12T23:18:20.112400",
+     "start_time": "2023-03-13T04:44:58.292854",
      "status": "completed"
     },
     "tags": []
@@ -691,13 +691,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "4943e844",
+   "id": "6b9415fc",
    "metadata": {
     "papermill": {
-     "duration": 0.010768,
-     "end_time": "2023-03-12T23:18:21.661329",
+     "duration": 0.01149,
+     "end_time": "2023-03-13T04:44:59.857105",
      "exception": false,
-     "start_time": "2023-03-12T23:18:21.650561",
+     "start_time": "2023-03-13T04:44:59.845615",
      "status": "completed"
     },
     "tags": []
@@ -723,19 +723,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "97eae52a",
+   "id": "ce24d982",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-03-12T23:18:21.685401Z",
-     "iopub.status.busy": "2023-03-12T23:18:21.683910Z",
-     "iopub.status.idle": "2023-03-12T23:18:21.706803Z",
-     "shell.execute_reply": "2023-03-12T23:18:21.705183Z"
+     "iopub.execute_input": "2023-03-13T04:44:59.883071Z",
+     "iopub.status.busy": "2023-03-13T04:44:59.881554Z",
+     "iopub.status.idle": "2023-03-13T04:44:59.908154Z",
+     "shell.execute_reply": "2023-03-13T04:44:59.906280Z"
     },
     "papermill": {
-     "duration": 0.037306,
-     "end_time": "2023-03-12T23:18:21.709017",
+     "duration": 0.042518,
+     "end_time": "2023-03-13T04:44:59.910898",
      "exception": false,
-     "start_time": "2023-03-12T23:18:21.671711",
+     "start_time": "2023-03-13T04:44:59.868380",
      "status": "completed"
     },
     "tags": []
@@ -771,19 +771,19 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "a527b2e1",
+   "id": "15ca7a3e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-03-12T23:18:21.733784Z",
-     "iopub.status.busy": "2023-03-12T23:18:21.732355Z",
-     "iopub.status.idle": "2023-03-12T23:18:21.834556Z",
-     "shell.execute_reply": "2023-03-12T23:18:21.832947Z"
+     "iopub.execute_input": "2023-03-13T04:44:59.937137Z",
+     "iopub.status.busy": "2023-03-13T04:44:59.935592Z",
+     "iopub.status.idle": "2023-03-13T04:45:00.043992Z",
+     "shell.execute_reply": "2023-03-13T04:45:00.042237Z"
     },
     "papermill": {
-     "duration": 0.117276,
-     "end_time": "2023-03-12T23:18:21.837201",
+     "duration": 0.12391,
+     "end_time": "2023-03-13T04:45:00.046340",
      "exception": false,
-     "start_time": "2023-03-12T23:18:21.719925",
+     "start_time": "2023-03-13T04:44:59.922430",
      "status": "completed"
     },
     "tags": []
@@ -827,13 +827,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "238102c2",
+   "id": "9c1d8baf",
    "metadata": {
     "papermill": {
-     "duration": 0.011898,
-     "end_time": "2023-03-12T23:18:21.865940",
+     "duration": 0.011794,
+     "end_time": "2023-03-13T04:45:00.069898",
      "exception": false,
-     "start_time": "2023-03-12T23:18:21.854042",
+     "start_time": "2023-03-13T04:45:00.058104",
      "status": "completed"
     },
     "tags": []
@@ -849,19 +849,19 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "312291c7",
+   "id": "a5af8440",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-03-12T23:18:21.901875Z",
-     "iopub.status.busy": "2023-03-12T23:18:21.899822Z",
-     "iopub.status.idle": "2023-03-12T23:18:22.114303Z",
-     "shell.execute_reply": "2023-03-12T23:18:22.106453Z"
+     "iopub.execute_input": "2023-03-13T04:45:00.096868Z",
+     "iopub.status.busy": "2023-03-13T04:45:00.095418Z",
+     "iopub.status.idle": "2023-03-13T04:45:00.329494Z",
+     "shell.execute_reply": "2023-03-13T04:45:00.324530Z"
     },
     "papermill": {
-     "duration": 0.239847,
-     "end_time": "2023-03-12T23:18:22.119503",
+     "duration": 0.251457,
+     "end_time": "2023-03-13T04:45:00.333423",
      "exception": false,
-     "start_time": "2023-03-12T23:18:21.879656",
+     "start_time": "2023-03-13T04:45:00.081966",
      "status": "completed"
     },
     "tags": []
@@ -931,19 +931,249 @@
   },
   {
    "cell_type": "markdown",
-   "id": "f35612e9",
+   "id": "070823b7",
    "metadata": {
     "papermill": {
-     "duration": 0.026629,
-     "end_time": "2023-03-12T23:18:22.175231",
+     "duration": 0.019881,
+     "end_time": "2023-03-13T04:45:00.373275",
      "exception": false,
-     "start_time": "2023-03-12T23:18:22.148602",
+     "start_time": "2023-03-13T04:45:00.353394",
      "status": "completed"
     },
     "tags": []
    },
    "source": [
-    "Answer: there is no evidence of severe multicolinearity, since all VIF values are less than 10. The largest VIF value tells us that the variance of the "
+    "Answer: there is no evidence of severe multicolinearity, since all VIF values are less than 10. The largest VIF value tells us that the variance of the esize coefficient is inflated by a factor of 5.9 because esize is highly correlated with at least one of the other predictors in the model.\n",
+    "\n",
+    "j. based on a global usefulness test, is it worth going on to further analyze and interpret a model of price against each of the predictors. Carry out the test, give the conclusion and justify the answer."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "id": "3836fe52",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-03-13T04:45:00.416133Z",
+     "iopub.status.busy": "2023-03-13T04:45:00.414591Z",
+     "iopub.status.idle": "2023-03-13T04:45:00.447483Z",
+     "shell.execute_reply": "2023-03-13T04:45:00.444388Z"
+    },
+    "papermill": {
+     "duration": 0.058384,
+     "end_time": "2023-03-13T04:45:00.451339",
+     "exception": false,
+     "start_time": "2023-03-13T04:45:00.392955",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "\n",
+       "Call:\n",
+       "lm(formula = model, data = cardekho2)\n",
+       "\n",
+       "Residuals:\n",
+       "    Min      1Q  Median      3Q     Max \n",
+       "-2620.0  -188.9     3.0   171.2  3970.6 \n",
+       "\n",
+       "Coefficients:\n",
+       "                         Estimate Std. Error t value Pr(>|t|)    \n",
+       "(Intercept)            -745.84341   77.73880  -9.594  < 2e-16 ***\n",
+       "makeHonda              -150.95095   31.91104  -4.730 2.28e-06 ***\n",
+       "makeHyundai              18.50214   26.50858   0.698 0.485218    \n",
+       "makeMahindra            108.30980   30.47386   3.554 0.000381 ***\n",
+       "makeMaruti              149.07261   25.60333   5.822 6.03e-09 ***\n",
+       "makeOther               262.86123   26.61647   9.876  < 2e-16 ***\n",
+       "makeTata                -50.08944   28.61375  -1.751 0.080065 .  \n",
+       "makeToyota              235.48398   34.48390   6.829 9.21e-12 ***\n",
+       "kms                      -1.58575    0.10333 -15.346  < 2e-16 ***\n",
+       "fuelPetrol               -5.70032   15.65198  -0.364 0.715725    \n",
+       "sellerIndividual       -235.50855   16.38584 -14.373  < 2e-16 ***\n",
+       "sellerTrustmark Dealer -284.31597   34.71053  -8.191 3.00e-16 ***\n",
+       "txManual               -414.75405   19.70954 -21.043  < 2e-16 ***\n",
+       "ownerSecond            -112.88321   12.72001  -8.874  < 2e-16 ***\n",
+       "ownerThird or above    -129.54557   19.78783  -6.547 6.25e-11 ***\n",
+       "mileage                  30.89608    2.08048  14.850  < 2e-16 ***\n",
+       "esize                     0.09409    0.02463   3.820 0.000134 ***\n",
+       "power                    13.82643    0.26011  53.156  < 2e-16 ***\n",
+       "---\n",
+       "Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1\n",
+       "\n",
+       "Residual standard error: 451.2 on 7779 degrees of freedom\n",
+       "Multiple R-squared:  0.6901,\tAdjusted R-squared:  0.6894 \n",
+       "F-statistic:  1019 on 17 and 7779 DF,  p-value: < 2.2e-16\n"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "summary(fit1)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "c52d50e5",
+   "metadata": {
+    "papermill": {
+     "duration": 0.020665,
+     "end_time": "2023-03-13T04:45:00.491966",
+     "exception": false,
+     "start_time": "2023-03-13T04:45:00.471301",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "Answer: in this case, we find F = 1019 on 17 and 7779 degrees of freedom, and p-value<2.2e-16. We therefore have very strong evidence to reject H0 and conclude that there is no evidence that all regression coefficients are zero in the population. This means we can go on to further analyze and interpret the model of price against those predictors."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "bbd69c29",
+   "metadata": {
+    "papermill": {
+     "duration": 0.019596,
+     "end_time": "2023-03-13T04:45:00.531696",
+     "exception": false,
+     "start_time": "2023-03-13T04:45:00.512100",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "2. a. In the fit2 model, the coefficient for linoleic is positive, while it is negative in the fit3 model. Making reference to the scatterplot matrix, give a possible explanation for the change in sign for the linoleic acid coefficient.\n",
+    "\n",
+    "Answer: the scatterplot shows a negative relationship (-0.84) between oleic and linoleic. The presence of confounding variables affecting the relationship between linoleic and palmitic acids. The addition of oleic acid as a predictor variable in the fit3 model could have accounted for this confounding effect, leading to a change in the sign of the linoleic acid coefficient.  "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b0a72060",
+   "metadata": {
+    "papermill": {
+     "duration": 0.012976,
+     "end_time": "2023-03-13T04:45:00.563418",
+     "exception": false,
+     "start_time": "2023-03-13T04:45:00.550442",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "b. use the model in fit3 to obtain 95% confidence and prediction intervals of palmitic for an olive oil sample with: \n",
+    "\n",
+    "* linoleic= 0.3\n",
+    "* stearic = 2.2\n",
+    "* oleic= 73.0"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "e64b0e64",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-03-13T04:45:00.591255Z",
+     "iopub.status.busy": "2023-03-13T04:45:00.589777Z",
+     "iopub.status.idle": "2023-03-13T04:45:00.624517Z",
+     "shell.execute_reply": "2023-03-13T04:45:00.622570Z"
+    },
+    "papermill": {
+     "duration": 0.051009,
+     "end_time": "2023-03-13T04:45:00.626772",
+     "exception": false,
+     "start_time": "2023-03-13T04:45:00.575763",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "\n",
+      "\n",
+      "|  fit  |  lwr  |  upr  |\n",
+      "|:-----:|:-----:|:-----:|\n",
+      "| 18.88 | 18.17 | 19.59 |\n",
+      "\n",
+      "Table: Prediction intervals\n",
+      "\n",
+      "\n",
+      "\n",
+      "|  fit  |  lwr  | upr  |\n",
+      "|:-----:|:-----:|:----:|\n",
+      "| 18.88 | 18.66 | 19.1 |\n",
+      "\n",
+      "Table: Confidence intervals\n",
+      "\n"
+     ]
+    }
+   ],
+   "source": [
+    "fit3 <- lm(palmitic ~ linoleic + stearic + oleic, data=olive)\n",
+    "\n",
+    "# create a new df with the predictor values for the new sample\n",
+    "new_df <- data.frame(linoleic= 0.3, stearic = 2.2, oleic= 73.0)\n",
+    "\n",
+    "# obtain the predicted value and prediction intervals\n",
+    "pander(\n",
+    "    predict(fit3, newdata = new_df, interval = \"prediction\"),\n",
+    "    caption = \"Prediction intervals\",\n",
+    "    round = 2\n",
+    ")\n",
+    "\n",
+    "# obtain the confidence intervals \n",
+    "pander(\n",
+    "    predict(fit3, newdata = new_df, interval = \"confidence\"),\n",
+    "    caption = \"Confidence intervals\",\n",
+    "    round = 2\n",
+    ")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6d463308",
+   "metadata": {
+    "papermill": {
+     "duration": 0.012283,
+     "end_time": "2023-03-13T04:45:00.651630",
+     "exception": false,
+     "start_time": "2023-03-13T04:45:00.639347",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "c. If all regression assumptions hold, what other condition would have to be met for the prediction above to be valid.\n",
+    "\n",
+    "Answer: the new observation with predictor values would need to fall within the range of the predictor values used to fit the fit3 model. This is because the model is linear regression and thus the range of values observed in the data used to fit the model must be held."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "4daee96e",
+   "metadata": {
+    "papermill": {
+     "duration": 0.012458,
+     "end_time": "2023-03-13T04:45:00.676308",
+     "exception": false,
+     "start_time": "2023-03-13T04:45:00.663850",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "d. Some of the olive oil samples originated from the same region of Italy. What regression assumption is violated? Explanation.\n",
+    "\n",
+    "Answer: the violation of the assumption of independent random errors. The response variable depends on the observation locations"
    ]
   }
  ],
@@ -963,14 +1193,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 11.619337,
-   "end_time": "2023-03-12T23:18:22.317907",
+   "duration": 11.815585,
+   "end_time": "2023-03-13T04:45:00.815200",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2023-03-12T23:18:10.698570",
+   "start_time": "2023-03-13T04:44:48.999615",
    "version": "2.4.0"
   }
  },
